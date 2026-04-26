@@ -12,3 +12,4 @@ data.
 - src/preprocess.py - Data cleaning and feature engineering
 - src/train.py - Model training (WIP)
 - config/ - Model and pipeline configuration
+- src/evaluate.py - Model evaluation and metrics
