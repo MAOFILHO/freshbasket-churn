@@ -7,3 +7,8 @@ data.
 - You (ML Engineer)
 - Arjun (ML Engineer)
 - src/evaluate.py - Model evaluation and metrics
+
+## Project Structure
+- src/preprocess.py - Data cleaning and feature engineering
+- src/train.py - Model training (WIP)
+- config/ - Model and pipeline configuration
